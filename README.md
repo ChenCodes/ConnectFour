@@ -1,2 +1,5 @@
 # ConnectFour
-Connect Four implementation in Ruby 
+Connect Four implementation done in Ruby 
+
+<h1>To use:</h1>
+
